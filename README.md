@@ -27,6 +27,7 @@ present a time table displaying plants that have been watered, that will need wa
 1. Provide an API to consume the current watering data set. This maybe invoked via a tool like Postman or curl.
 2. Use the H2 database to persist the data set. Feel free to change to a more familiar DB if required.
 3. Provide an API that the SPA will consume in order to populate the Watering Time Table.
+4. The data set Json to be used is resources/PlantsWateringSchedule.json
 
 ###### Project Instructions
 1. Ensure to follow clean code and SOLID principles.
