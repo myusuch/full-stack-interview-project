@@ -6,7 +6,7 @@ The following Coding challenge project must be completed and sent over prior to 
 
 1. There is a 1-week deadline to submit a solution, however we ask you not to spend more than a couple of hours to provide a clean and working solution.
 2. You may leave things open for discussion during the onsite/remote technical interview.
-3. Feel free to get in touch with ..... if you have any questions.
+3. Feel free to get in touch with Hazel Chan if you have any questions.
 
 ###### Project Description
 
@@ -32,12 +32,14 @@ present a time table displaying plants that have been watered, that will need wa
 ###### Project Instructions
 1. Ensure to follow clean code and SOLID principles.
 2. Follow TDD or ensure to have good test coverage.
-3. Ensure to follow good coding style and conventions
+3. Ensure you follow good coding styles and conventions.
 
 ###### Submission Instructions
 1. Clone the repository
 2. Complete your project as instructed and ensure to commit all the code to your local repo.
-3. Create a git bundle and email it to ....
+3. Create a git bundle and email it to Hazel Chan.
+
+Please Note: Do not create branches and commit code to the remote repository. The repository will be cleaned up periodically and you will end up losing all your code should you push your brances and changes to it.
 
 
 
